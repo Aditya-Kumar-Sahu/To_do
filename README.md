@@ -1,1 +1,2 @@
-# To_do
+# To do
+Mini project to manage todo list.
